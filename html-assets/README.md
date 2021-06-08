@@ -1,5 +1,5 @@
 #portfolio landing page
-#### {A website for my landing page portfolio}
+#### A website for my landing page portfolio
 #### By **George Ongaya**
 ## Description
 This is a website showcasing my ability to comprehend and implement what i learnt during the first week of Moringa,
