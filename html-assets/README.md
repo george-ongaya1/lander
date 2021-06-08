@@ -1,18 +1,20 @@
-#Portfolio landing page
-
- This project was authored by George Ongaya as the sole collaborator on 4th-June-2021
- The project is designed to serve as a website
- That has multiple pages describing the reason for their inclusion in the project
-
- The pages include but are not limited to 
-
- Home
- About
- Interests
- Projects
- Objectives
-
- For additional visuals that serve as a background and icon tiles for div containers
- to link live to the website go to https://george-ongaya1.github.io/lander/
-
- The copyright dated @2021 on the bottom of the landing page is inclusive and so is the open license information
+#portfolio landing page
+#### {A website for my landing page portfolio}
+#### By **George Ongaya**
+## Description
+This is a website showcasing my ability to comprehend and implement what i learnt during the first week of Moringa,
+with regards to the use of html and css.When applying html tags and css selectors,in a html document.
+https://github.com/george-ongaya-1/lander
+## Setup/Installation Requirements
+- copy the url - https://github.com/george-ongaya-1/lander
+- Clone on your computer - git clone https://github.com/george-ongaya-1/lander
+- Go live on the browsers available on your device.
+## Known Bugs
+corruptible file paths and conflicts in application of the block and inline elements properties.
+## Technologies Used
+html5 and css
+## Support and contact details
+gmail-georgeongaya94@gmail.com
+slack-george
+### License
+Copyright (c) 2021 **George Ongaya**
