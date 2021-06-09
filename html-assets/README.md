@@ -10,7 +10,7 @@ with regards to the use of html and css.When applying html tags and css selector
 https://github.com/george-ongaya-1/lander
 
 ## Setup/Installation Requirements
-- copy the url - https://github.com/george-ongaya-1/lander
+- Copy the url - https://github.com/george-ongaya-1/lander
 - Clone on your computer - git clone https://github.com/george-ongaya-1/lander
 - Go live on the browsers available on your device.
 
@@ -25,7 +25,8 @@ gmail-georgeongaya94@gmail.com
 slack-george
 
 ### License
-Copyright (c) 2021 **George Ongaya**
+
+Copyright (c) 2021 by George Ongaya (https://github.com/george-ongaya1)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
 
