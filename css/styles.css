@@ -27,9 +27,10 @@ nav{
     background-color:#FFFFFF;
     box-shadow:2px 2px 12px rgba(0,0,0,0.2);
     padding:0px 5%;
-    
+   
      
 }
+
 nav ul{
     display:flex;
 }
@@ -39,7 +40,9 @@ nav ul li a{
     color:#505050;
     font-size:15px;
     font-weight:700;
+    transition:0.5s;
 }
+ 
 .logo{
     font-family:cochin;
     color:#000000;
@@ -86,11 +89,43 @@ nav ul li a{
     border-radius:10px;
     font-family:calibri;
     font-weight:bold;
-    font-size:14px;
+    font-size:20px;
     outline:none;
     margin:0px 10px;
-
 }
+/*--------------------------------*/
+
+  .text-container button a {
+    
+    width: 130px;
+    height: 42px;
+    background: #333;
+    color: #ffffff;
+    transition: .5s;
+  }
+  
+  .text-container button a::before {
+    background: #ffee10;
+    transition: .5s;
+    transform: scale(.9);
+    z-index: -1;
+  }
+  
+  .text-container button a:hover::before {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px #ffee10;
+  }
+  
+  .text-container button a:hover {
+    color: #ffee10;
+    box-shadow: 0 0 60px #ffee10;
+    text-shadow: 0 0 60px #ffee10;
+  }
+
+/*-------------------------------*/
+    
+
+
 .hire-btn{
     border:2px solid#373636;
     color:#373636;
@@ -215,6 +250,7 @@ font-size:16px;
     background-color:#262525;
 
 }
+ 
 .services{
     height:600px;
     background-color:#ffffff;
