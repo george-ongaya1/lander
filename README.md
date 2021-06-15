@@ -1,12 +1,15 @@
-#Portfolio landing page
+# Portfolio landing page
 
 #### A website for my landing page portfolio
 
-#### By **George Ongaya**
+#### By George Ongaya
 
 ## Description
 This is a website showcasing my ability to comprehend and implement what i learnt during the first week of Moringa,
 with regards to the use of html and css.When applying html tags and css selectors,in a html document.
+
+The porfolio landing page, will showcase an about me section,projects and hobbies html pages to make the website more interactive.With the use of anchor tags and link tags, that link the websites elements with directories that contain items to be displayed or accessed.
+
 https://github.com/george-ongaya1/lander.git
 
 ## Setup/Installation Requirements
@@ -21,8 +24,8 @@ corruptible file paths and conflicts in application of the block and inline elem
 html5 and css
 
 ## Support and contact details
-gmail-georgeongaya94@gmail.com
-slack-george
+- gmail-georgeongaya94@gmail.com
+- slack-george
 
 ### License
 
